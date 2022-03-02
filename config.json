@@ -11,26 +11,21 @@
 
 	"authors": [
 		{
-			"name": "Andrew Martin",
-			"email": "andy123@stanford.edu",
-			"institution": "Stanford University"
-		}
-	],
-
-	"permissions": [
-		"redcap_email"
-	],
-
-	"enable-every-page-hooks-on-system-pages": false,
-
-	"links": {
-		"project": [
-
-		],
-		"control-center": [
-
-		]
-	},
+            "name": "Andrew Martin",
+            "email": "andy123@stanford.edu",
+            "institution": "Stanford University"
+        }
+    ],
+    "permissions": [
+        "redcap_email"
+    ],
+    "enable-every-page-hooks-on-system-pages": true,
+    "links": {
+        "project": [
+        ],
+        "control-center": [
+        ]
+    },
 
 	"no-auth-pages": [
 
